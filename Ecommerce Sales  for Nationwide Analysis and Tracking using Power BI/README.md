@@ -12,3 +12,8 @@ Our esteemed client, the owner of a prestigious store, has presented us with a u
 •	Created connections, join new tables, calculations to manipulate data and ensure user driven parameters for visualization.
 
 •	Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc).
+
+## 🖼️ Dashboard Preview
+
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Ecommerce%20Sales%20%20for%20Nationwide%20Analysis%20and%20Tracking%20using%20Power%20BI/Screenshot%202023-07-01%20141415.png?raw=true)
+
