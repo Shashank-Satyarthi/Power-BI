@@ -15,5 +15,6 @@ Our esteemed client, the owner of a prestigious store, has presented us with a u
 
 ## 🖼️ Dashboard Preview
 
-![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Ecommerce%20Sales%20%20for%20Nationwide%20Analysis%20and%20Tracking%20using%20Power%20BI/Screenshot%202023-07-01%20141415.png?raw=true)
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Ecommerce%20Sales%20%20for%20Nationwide%20Analysis%20and%20Tracking%20using%20Power%20BI/Dashboard%20Preview.png?raw=true)
+
 
