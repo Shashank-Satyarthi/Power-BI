@@ -85,7 +85,13 @@ Make data-driven business decisions to improve profitability and growth
 
 ![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Retail%20Chain%20Project%20using%20Power%20BI/Dashboard%20Preview/Sales%20Performance%20Dashboard.png?raw=true)
 
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Retail%20Chain%20Project%20using%20Power%20BI/Dashboard%20Preview/Customer%20Analysis.png?raw=true)
 
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Retail%20Chain%20Project%20using%20Power%20BI/Dashboard%20Preview/Pareto%20Analysis.png?raw=true)
+
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Retail%20Chain%20Project%20using%20Power%20BI/Dashboard%20Preview/Target%20Benchmark%20Analysis.png?raw=true)
+
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Retail%20Chain%20Project%20using%20Power%20BI/Dashboard%20Preview/What-if%20Parameter.png?raw=true)
 
 ## **👨‍💻 Author**
 
