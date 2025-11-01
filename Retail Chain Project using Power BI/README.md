@@ -1,12 +1,12 @@
 # 🏪 Retail Chain Sales Dashboard using Power BI
 
-**📝 Description**
+## **📝 Description**
 
 Our esteemed client, a leading retail chain with multiple store locations nationwide, approached us to develop an insightful and interactive Power BI dashboard to analyze and track their overall sales performance. The goal was to design a comprehensive analytics solution that empowers decision-makers with real-time visibility into key business metrics — including revenue, profit, and customer trends — across stores, product categories, and time periods.
 
 The main objective of this project was to create an intuitive, visually engaging, and data-driven dashboard that enhances business understanding, facilitates data-backed decisions, and helps optimize retail operations and profitability.
 
-**📚 Project Learnings**
+## **📚 Project Learnings**
 
 Interactive Dashboard Design
 
@@ -43,7 +43,7 @@ GitHub Integration
 
 As part of the project delivery, the Power BI file was integrated with GitHub for efficient version control, collaboration, and scalability. This ensures seamless updates, maintenance, and future enhancements to the dashboard.
 
-**🧠 Dashboard Preview**
+## **🧠 Dashboard Preview**
 
 The dashboard presents a comprehensive overview of retail performance through key visualizations such as:
 
@@ -59,7 +59,7 @@ Top Performing Products and Stores
 
 (Preview below — interactive visuals available in the Power BI file)
 
-**⚙️ Tools & Technologies Used**
+## **⚙️ Tools & Technologies Used**
 
 Power BI – Data visualization and dashboard design
 
@@ -69,7 +69,7 @@ DAX (Data Analysis Expressions) – Calculations and KPIs
 
 GitHub – Version control and collaboration
 
-**💡 Key Insights**
+## **💡 Key Insights**
 
 Through this project, the client gained the ability to:
 
@@ -81,7 +81,7 @@ Optimize inventory and pricing strategies
 
 Make data-driven business decisions to improve profitability and growth
 
-**👨‍💻 Author**
+## **👨‍💻 Author**
 
 Shashank Satyarthi
 
