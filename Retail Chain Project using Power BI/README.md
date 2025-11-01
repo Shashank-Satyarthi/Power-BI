@@ -8,11 +8,11 @@ The main objective of this project was to create an intuitive, visually engaging
 
 ## **📚 Project Learnings**
 
-Interactive Dashboard Design
+**Interactive Dashboard Design**
 
 Designed a dynamic and user-friendly Power BI dashboard enabling stakeholders to easily navigate and interact with data through filters, slicers, and drill-down options. This allowed users to explore performance at multiple levels — from overall company insights to specific stores or product lines.
 
-Advanced Data Manipulation
+**Advanced Data Manipulation**
 
 Leveraged Power Query and DAX to perform complex data transformations, establish relationships between multiple datasets, and create calculated measures for KPIs such as:
 
@@ -23,11 +23,11 @@ Average Order Value
 Year-over-Year and Month-over-Month Growth
 These calculations provided a clear understanding of both macro and micro-level retail performance.
 
-Customized Visualization
+**Customized Visualization**
 
 Implemented a wide variety of Power BI visuals including bar charts, line charts, donut charts, and tables to illustrate performance insights effectively. Added conditional formatting, custom tooltips, and drill-through capabilities for deeper analysis and better data storytelling.
 
-Insightful Sales Analysis
+**Insightful Sales Analysis**
 
 Empowered the retail management team to perform detailed data-driven analysis, uncovering patterns and trends that influenced business outcomes. The dashboard enabled the team to:
 
@@ -39,7 +39,7 @@ Track profit margins across regions and segments
 
 Improve inventory planning and promotional strategies
 
-GitHub Integration
+**GitHub Integration**
 
 As part of the project delivery, the Power BI file was integrated with GitHub for efficient version control, collaboration, and scalability. This ensures seamless updates, maintenance, and future enhancements to the dashboard.
 
