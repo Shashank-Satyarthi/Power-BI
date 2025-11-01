@@ -1,4 +1,4 @@
-****🏪 Retail Chain Sales Dashboard using Power BI****
+******🏪 Retail Chain Sales Dashboard using Power BI******
 
 **📝 Description**
 
