@@ -83,7 +83,8 @@ Make data-driven business decisions to improve profitability and growth
 
 ## 🖼️ Dashboard Preview
 
-![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Ecommerce%20Sales%20%20for%20Nationwide%20Analysis%20and%20Tracking%20using%20Power%20BI/Dashboard%20Preview.png?raw=true)
+![App Screenshot](https://github.com/Shashank-Satyarthi/Power-BI/blob/main/Retail%20Chain%20Project%20using%20Power%20BI/Dashboard%20Preview/Sales%20Performance%20Dashboard.png?raw=true)
+
 
 
 ## **👨‍💻 Author**
